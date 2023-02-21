@@ -2,7 +2,7 @@
 - 🎓 I am a Research Associate at the University of Cambridge
 - 👀 I’m interested in the modelling, evaluation and optimization of stochastic
 processes, for example in communications, healthcare, and service science
-- 🌱 I’m currently learning Dash(Plotly) and Flask
+- 🌱 I’m currently learning [simmer](https://r-simmer.org/)
 - 📫 How to reach me: ycc39 [at] cam [dot] ac [dot] uk
 
 <!---
