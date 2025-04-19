@@ -8,3 +8,5 @@ processes, for example in communications, healthcare, and service science
 yinchi/yinchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Quick link: [non-archived repos only](https://github.com/yinchi?tab=repositories&q=archived%3Afalse)
